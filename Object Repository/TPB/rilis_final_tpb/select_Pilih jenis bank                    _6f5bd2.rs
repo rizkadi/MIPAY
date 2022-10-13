@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Pilih jenis bank                    _6f5bd2</name>
+   <tag></tag>
+   <elementGuidId>cb68cdc5-9aa5-42da-97a7-3aa804d1dd78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='jenis_bank']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;jenis_bank&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d7ffb40e-1dc1-4a1e-b0d2-0e0960654cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>b18d07a8-a8ae-4987-a266-c26e2dd8a924</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenis_bank</value>
+      <webElementGuid>18f528f0-f7e7-439f-bc26-5fb241e4728a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Pilih jenis bank
+                                                        BNI
+                                                        BSI
+                                                        Mandiri
+                                                    </value>
+      <webElementGuid>3fbe30ec-44b2-488a-b91f-494bbdd3f19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row row-xs&quot;]/div[@class=&quot;col-sm-12 col-md-12 mb-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>01ea86da-1c74-4f6c-9b0f-be91efb36f87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='jenis_bank']</value>
+      <webElementGuid>2514caa0-8388-438f-9e62-6a80a7b8d6d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div/div/form/div/div[5]/select</value>
+      <webElementGuid>a0cdde21-9780-414c-afaf-762c2b8aa645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rilis Final TPB'])[2]/following::select[5]</value>
+      <webElementGuid>3b536317-e3d6-4699-976a-0187cb48112b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan'])[1]/preceding::select[1]</value>
+      <webElementGuid>cd8fe4cf-8aaa-43aa-b350-a4697df8c5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unduh'])[1]/preceding::select[1]</value>
+      <webElementGuid>22e8b737-16fc-44df-83d7-b36ad847189a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/select</value>
+      <webElementGuid>9520b67e-bd82-4a73-b53a-42f262c4a2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenis_bank' and (text() = '
+                            Pilih jenis bank
+                                                        BNI
+                                                        BSI
+                                                        Mandiri
+                                                    ' or . = '
+                            Pilih jenis bank
+                                                        BNI
+                                                        BSI
+                                                        Mandiri
+                                                    ')]</value>
+      <webElementGuid>169c4bd9-6701-4688-9059-d78e159d9455</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Belum Tervalidasi_fa fa-edit</name>
+   <tag></tag>
+   <elementGuidId>fcfd8800-0f07-4af6-92c7-a0c3fdc1c56f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='table-penerimaan-tpb-0']/tbody/tr/td[20]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>60b51ad5-ddd5-4aea-a60e-840712cb54a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit</value>
+      <webElementGuid>17cf378b-e3b6-419a-92a5-8c5fca84fdcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;table-penerimaan-tpb-0&quot;)/tbody[1]/tr[1]/td[@class=&quot;td-its small&quot;]/a[1]/i[@class=&quot;fa fa-edit&quot;]</value>
+      <webElementGuid>3dd9cfac-98bb-4e59-87d7-d67b15e63129</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table-penerimaan-tpb-0']/tbody/tr/td[20]/a/i</value>
+      <webElementGuid>7de83f65-35e2-45c3-a57f-0376dc0b4254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/i</value>
+      <webElementGuid>9fcf26e0-481b-4583-a87f-62bf5f725902</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

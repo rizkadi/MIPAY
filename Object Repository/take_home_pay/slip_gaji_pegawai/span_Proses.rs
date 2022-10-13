@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Proses</name>
+   <tag></tag>
+   <elementGuidId>2d5b03f4-1c07-40c3-864e-fe0bbb3522f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='rwyAjuanSlip']/tbody/tr/td[6]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.badge.badge-pill.badge-secondary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>21edbec8-2f50-4ebb-8a4c-356a23fe739a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge badge-pill badge-secondary</value>
+      <webElementGuid>a26ae144-1514-44dc-bd77-9812a3aa76ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Proses
+                                </value>
+      <webElementGuid>f46aa4cc-e6be-4646-889a-fcaf2d4f0f40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rwyAjuanSlip&quot;)/tbody[1]/tr[1]/td[@class=&quot;td-its&quot;]/span[@class=&quot;badge badge-pill badge-secondary&quot;]</value>
+      <webElementGuid>6c8d02b1-fa28-4f7d-9db4-9d7d388b8a9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='rwyAjuanSlip']/tbody/tr/td[6]/span</value>
+      <webElementGuid>140c053b-3fa3-4938-a1b4-863f1aae5663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestQA SKP'])[1]/following::span[1]</value>
+      <webElementGuid>73e7fec3-50be-4c9e-92b6-6815f010423e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surat Keterangan Penghasilan'])[1]/following::span[1]</value>
+      <webElementGuid>f2ccffb4-135b-4f6f-bd97-697ee7ba2d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='April 2022'])[2]/preceding::span[1]</value>
+      <webElementGuid>20740726-f807-4647-8fe8-61fb5f137ebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slip Gaji'])[1]/preceding::span[1]</value>
+      <webElementGuid>576768c4-6e34-4720-a121-69e4cff71bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Proses']/parent::*</value>
+      <webElementGuid>c70fac55-b0cd-4b04-a7bc-4aaffaa02626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/span</value>
+      <webElementGuid>528091bb-93b3-475f-89a0-584e0416fa27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                    Proses
+                                ' or . = '
+                                    Proses
+                                ')]</value>
+      <webElementGuid>62d9ce0e-0ad1-4d2b-93ac-b3c941f0461c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

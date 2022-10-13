@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__col-6</name>
+   <tag></tag>
+   <elementGuidId>ce164391-b689-49f6-a9f4-c5089b861195</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div[2]/div[2]/form/div/div[2]/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aaf39d96-4b08-41c3-985d-e24462e38927</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-6</value>
+      <webElementGuid>86184975-61ae-4b1a-867f-c31c6040aaf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row row-xs&quot;]/div[@class=&quot;col-sm-12 col-lg-12&quot;]/form[1]/div[@class=&quot;card p-3&quot;]/div[@class=&quot;row mb-1&quot;]/div[@class=&quot;col-6&quot;]</value>
+      <webElementGuid>736190d0-4120-4a48-ba0d-de63ad751ed9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div[2]/form/div/div[2]/div[3]</value>
+      <webElementGuid>dc90502f-9fcc-4869-846a-bda0e5a30dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[3]/following::div[1]</value>
+      <webElementGuid>115fc09a-2031-460a-a6a1-cba3dcb9875e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gaji'])[1]/following::div[2]</value>
+      <webElementGuid>d6c64a7d-f684-4494-8aac-8d4a3aeacfc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tunjangan Istri / Suami'])[1]/preceding::div[3]</value>
+      <webElementGuid>f9d2106a-8aff-40fe-91d3-89c2643f33cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[4]/preceding::div[4]</value>
+      <webElementGuid>ba7a2d3f-de8b-4440-ba08-ad8c0470334c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]/div[3]</value>
+      <webElementGuid>88932707-fb50-44ce-8c7f-b02b62d7b6f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

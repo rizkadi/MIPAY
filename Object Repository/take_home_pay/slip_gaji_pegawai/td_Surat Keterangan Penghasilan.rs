@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Surat Keterangan Penghasilan</name>
+   <tag></tag>
+   <elementGuidId>e5cce2a3-1fbd-450d-afd4-21f7c77b4ccd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='rwyAjuanSlip']/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>62396b2c-1bf6-4ba2-8fe5-d8aa087c9cf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>td-its</value>
+      <webElementGuid>c362ef26-14d6-4234-b830-730a761b124b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Surat Keterangan Penghasilan</value>
+      <webElementGuid>1bafafb0-f549-4949-be64-ecc81ae6a908</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rwyAjuanSlip&quot;)/tbody[1]/tr[1]/td[@class=&quot;td-its&quot;]</value>
+      <webElementGuid>39610fc9-d56e-4186-9cf7-7a83fe464c75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='rwyAjuanSlip']/tbody/tr/td[4]</value>
+      <webElementGuid>28768052-8a98-4a80-b28e-83cbb18ff428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='April 2022'])[1]/following::td[1]</value>
+      <webElementGuid>231a798b-b20c-4f32-b83b-52e9806a685b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unduh'])[1]/following::td[4]</value>
+      <webElementGuid>68320b49-025a-4dde-aa58-55ad65b5fa81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestQA SKP'])[1]/preceding::td[1]</value>
+      <webElementGuid>5cc4f3f0-726b-4bf2-8a6e-8dac59a9ccbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses'])[1]/preceding::td[2]</value>
+      <webElementGuid>ec8c7e98-d560-4970-94cf-2ebbf1e1c820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Surat Keterangan Penghasilan']/parent::*</value>
+      <webElementGuid>da859206-e8b1-45ca-817e-7f1930ddc577</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>3be957da-dde9-40d3-be7c-165d89912970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Surat Keterangan Penghasilan' or . = 'Surat Keterangan Penghasilan')]</value>
+      <webElementGuid>d48d3af2-c3f3-44eb-adca-fbca7681bc7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

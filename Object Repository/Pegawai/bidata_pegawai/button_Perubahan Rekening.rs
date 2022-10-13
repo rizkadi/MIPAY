@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Perubahan Rekening</name>
+   <tag></tag>
+   <elementGuidId>3d1e0416-e646-42c3-8a9f-6fd80d0b0a19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-its.mb-4.btn-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cd762db4-fc43-4ff7-81a5-855c4b7a0bf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5730bd02-7c3e-4bed-9a21-cfc04944bdb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-its mb-4 btn-sm</value>
+      <webElementGuid>d52c012c-217c-487e-950d-a4a6a9433e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Perubahan Rekening</value>
+      <webElementGuid>f06488b5-3e98-4999-b7f5-d8f1eb8a853e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row row-xs&quot;]/div[@class=&quot;col-sm-12 col-lg-12&quot;]/div[@class=&quot;container border rounded-bottom bg-white&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/a[1]/button[@class=&quot;btn btn-primary btn-its mb-4 btn-sm&quot;]</value>
+      <webElementGuid>9cf7e4f8-a635-47ad-a0d0-f0a3009c42a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>c8f8d5d5-6a50-4ca5-8160-aa2a1ead3ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div[3]/div/div[2]/a/button</value>
+      <webElementGuid>497e53c1-425d-4f3e-9a26-a33a9b80ec47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Diri'])[1]/following::button[1]</value>
+      <webElementGuid>19a74fa5-9523-463c-b37b-c40e88019e59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biodata Pegawai'])[2]/following::button[1]</value>
+      <webElementGuid>7351fc10-92c9-40f8-a995-9cdccbb889bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Perubahan Rekening']/parent::*</value>
+      <webElementGuid>f35e5038-da90-4cc2-80f4-0cdd725c6b14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>cda7c9a3-8106-4548-87b3-9b558bb30d78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Perubahan Rekening' or . = 'Perubahan Rekening')]</value>
+      <webElementGuid>ce4599be-5574-4541-8d0d-e66dce1ce544</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_TestQA SKP</name>
+   <tag></tag>
+   <elementGuidId>77c58f1a-b44e-47fe-9713-16d4ab1ad929</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='rwyAjuanSlip']/tbody/tr/td[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5be0eef4-0d4d-47e4-acef-9b01d5e143af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>td-its</value>
+      <webElementGuid>9bee493b-5544-4521-b61b-2f6c4921c467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TestQA SKP</value>
+      <webElementGuid>17608eae-ce0d-4b61-8dab-17c8dbe6346c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rwyAjuanSlip&quot;)/tbody[1]/tr[1]/td[@class=&quot;td-its&quot;]</value>
+      <webElementGuid>9cf2ffd5-d8e6-40f9-a2e2-3be5c76367e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='rwyAjuanSlip']/tbody/tr/td[5]</value>
+      <webElementGuid>fbdecf3c-e5d2-4cf9-9ba1-801b3a17eccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surat Keterangan Penghasilan'])[1]/following::td[1]</value>
+      <webElementGuid>d13bfc28-d0ed-426d-86ac-d321940fc643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='April 2022'])[1]/following::td[2]</value>
+      <webElementGuid>5418b05d-4521-49bb-a548-c520c14dd998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses'])[1]/preceding::td[1]</value>
+      <webElementGuid>0b3a7813-116e-4ea2-b955-b16da26f43ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='April 2022'])[2]/preceding::td[5]</value>
+      <webElementGuid>dd412fec-7dd5-40be-b0fd-2b7b3890ad91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TestQA SKP']/parent::*</value>
+      <webElementGuid>127a1105-07cd-4e52-83f0-db7868454cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>6029dbf4-a7ac-481d-afa7-c361c4aa7d24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'TestQA SKP' or . = 'TestQA SKP')]</value>
+      <webElementGuid>295c00af-5be2-4a9a-962d-84acb2700dcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

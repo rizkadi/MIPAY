@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_195208161979031004</name>
+   <tag></tag>
+   <elementGuidId>776bdc8a-f230-47ee-b7b1-0585ad7acbbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='penerimaanTpb']/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.td-its.small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>453614e3-36b7-49af-8806-964a159f39a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>td-its small</value>
+      <webElementGuid>fe415abf-e429-4b43-b074-33d5bd0141bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>195208161979031004</value>
+      <webElementGuid>a28fd15f-c2f1-4e90-a4ba-cc8948ee78f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;penerimaanTpb&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;td-its small&quot;]</value>
+      <webElementGuid>01d171be-ad97-48ae-96d3-21699e4851a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='penerimaanTpb']/tbody/tr/td</value>
+      <webElementGuid>4832a31b-d9f1-4d36-ad81-96a120124d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Keaktifan'])[1]/following::td[1]</value>
+      <webElementGuid>b6820fcd-bd1e-4814-a79e-bdd27ea2bec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Rekening'])[1]/following::td[1]</value>
+      <webElementGuid>d28fc96e-ccba-421f-bd64-369f4a81d2de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prof. Dr. Taslim Ersam'])[1]/preceding::td[1]</value>
+      <webElementGuid>b8d34e3a-65e6-44af-acdc-970cee176b40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Institut Teknologi Sepuluh Nopember'])[1]/preceding::td[2]</value>
+      <webElementGuid>a851662b-7ce0-482a-9af0-24e9fd14cec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='195208161979031004']/parent::*</value>
+      <webElementGuid>d52379cf-3c08-48e4-a7fd-f97e02db2242</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>c63e7713-fd38-4c78-8630-535df15c7ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '195208161979031004' or . = '195208161979031004')]</value>
+      <webElementGuid>5b76161a-29b3-45df-9b4f-0a1f7d93a998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

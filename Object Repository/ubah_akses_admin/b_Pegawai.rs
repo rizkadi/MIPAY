@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Pegawai</name>
+   <tag></tag>
+   <elementGuidId>fee41496-9986-4e67-ab64-e43eaade4507</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chgRoleUser']/div/div/div/p/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>6c442541-cfc9-4e37-8b06-220253562656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pegawai </value>
+      <webElementGuid>f420b295-801d-43f4-a40f-8e4577f2cbd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chgRoleUser&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content bg-white&quot;]/div[@class=&quot;modal-body&quot;]/p[@class=&quot;tx-color-02&quot;]/b[1]</value>
+      <webElementGuid>7506c00f-1cfc-4a04-bc8a-8273098e7277</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chgRoleUser']/div/div/div/p/b</value>
+      <webElementGuid>f42de0a4-e76d-499f-b6c6-dfe20cbd7406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roles'])[1]/following::b[1]</value>
+      <webElementGuid>aa621487-86df-4347-b603-e295fac02e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change'])[1]/preceding::b[1]</value>
+      <webElementGuid>cb3e754c-6c86-458d-a7a4-2152b7a591f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::b[1]</value>
+      <webElementGuid>89ff5669-378b-4687-8605-ad5854f6461b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>cd84dca5-52e1-4ccf-bcc0-ef0df61262ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Pegawai ' or . = 'Pegawai ')]</value>
+      <webElementGuid>ff5ea1e7-2ac3-4cbf-8d8a-b7bfc182da4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_REKAP BUKTI PEMOTONGAN PPh 21 Tahun 2022  FINAL</name>
+   <tag></tag>
+   <elementGuidId>6e0c0275-1f2e-4f55-9d6a-0598cfe6e09e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h3[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>64f52c87-9f3e-4a3e-9d9e-cfa6ecc32646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>aa2c6035-e6a5-43b4-81e5-d28f5199131c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REKAP BUKTI PEMOTONGAN PPh 21 Tahun 2022  FINAL</value>
+      <webElementGuid>984a3f8f-f6de-4764-846e-e3411fb9235d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/h3[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>127e32f6-7d23-45c0-a5d1-333007292449</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h3[1]</value>
+      <webElementGuid>bdb33764-e177-44a3-afed-5111b6ff031e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal'])[1]/preceding::h3[1]</value>
+      <webElementGuid>92746eaf-fc0d-4f95-a31d-e8ace543a4d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REKAP BUKTI PEMOTONGAN PPh 21 Tahun 2022']/parent::*</value>
+      <webElementGuid>cd2d4f5b-ed10-44d2-bea4-7bc8a23cf0fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>9195f391-5b04-4a8b-8c22-a1757dc079d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'REKAP BUKTI PEMOTONGAN PPh 21 Tahun 2022  FINAL' or . = 'REKAP BUKTI PEMOTONGAN PPh 21 Tahun 2022  FINAL')]</value>
+      <webElementGuid>19c3b798-4d48-4b59-92fa-2c59d887daa6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

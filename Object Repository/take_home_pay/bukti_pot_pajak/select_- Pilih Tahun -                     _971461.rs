@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Pilih Tahun -                     _971461</name>
+   <tag></tag>
+   <elementGuidId>7c76bf0d-0287-4439-9e1d-179fb23a1218</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='tahun-pajak']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;tahun-pajak&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>49877f67-fecc-443d-ae10-3c68e3b46411</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>ff11192d-b676-45b2-a4bc-2a1eecc861f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tahun-pajak</value>
+      <webElementGuid>064e0e95-df20-4ef3-a3d0-6ed12364d0af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        - Pilih Tahun -
+                                                2022
+                                            </value>
+      <webElementGuid>a063278f-d6d5-46b8-8d8b-ce5237356b85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row row-xs&quot;]/div[@class=&quot;col-sm-12 col-lg-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/select[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>7bc999e9-7d76-4894-abcc-6bf8c8725505</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='tahun-pajak']</value>
+      <webElementGuid>1ff818cb-3803-4ec3-89cf-a8f591ec2a86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div[2]/div/div/form/div/select[2]</value>
+      <webElementGuid>8c63163b-0664-43f0-936f-42022666bda9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bukti Potong Pajak'])[2]/following::select[2]</value>
+      <webElementGuid>b4954d31-375b-4429-a49a-205195b90a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Institut Teknologi Sepuluh Nopember'])[1]/following::select[2]</value>
+      <webElementGuid>6c6a9f2a-6321-4459-adbb-8dccbe89dda3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cetak'])[1]/preceding::select[1]</value>
+      <webElementGuid>4aa0110d-18c4-48dd-a639-a155ceee88fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>894d9cd8-29b9-4c76-8fa0-7205095c9bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'tahun-pajak' and (text() = '
+                        - Pilih Tahun -
+                                                2022
+                                            ' or . = '
+                        - Pilih Tahun -
+                                                2022
+                                            ')]</value>
+      <webElementGuid>c76aa973-58c5-47df-b934-9958df00c95e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

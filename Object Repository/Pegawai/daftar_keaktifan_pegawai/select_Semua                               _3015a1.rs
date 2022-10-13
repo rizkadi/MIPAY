@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Semua                               _3015a1</name>
+   <tag></tag>
+   <elementGuidId>a71d10c6-e5ff-4b26-b8a8-9e6a6ce59bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='jenis_pegawai']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;jenis_pegawai&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4b485f11-63e4-490b-9940-4ee06ee61c99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control-sm</value>
+      <webElementGuid>d5aff59e-a4c2-4272-926f-2021061a25c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>jenis_pegawai</value>
+      <webElementGuid>2ff997c0-28de-4889-a33d-4850932de4ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Semua
+                                                        Dosen
+                                                        Tenaga Kependidikan
+                                                        Mahasiswa
+                                                    </value>
+      <webElementGuid>346a7fb1-2331-452a-ad6b-260874027928</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row row-xs&quot;]/div[@class=&quot;col-sm-12 col-md-12 mb-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 mr-5&quot;]/select[@class=&quot;form-control-sm&quot;]</value>
+      <webElementGuid>9844007c-3703-4e32-a9e6-fa866008dff2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='jenis_pegawai']</value>
+      <webElementGuid>57e741f2-2432-4ea9-b603-ed582aeb72dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div/div/form/div/div[3]/select</value>
+      <webElementGuid>3837013a-b569-4113-87ca-69299d713bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Keaktifan Pegawai'])[2]/following::select[3]</value>
+      <webElementGuid>8400a4a4-a49b-435d-a3d9-36379608083a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tampilkan'])[1]/preceding::select[1]</value>
+      <webElementGuid>86063d65-1b2f-4b23-b6db-4b450349dc0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tarik Data'])[1]/preceding::select[1]</value>
+      <webElementGuid>1c9a07cf-8f21-4031-a930-307552ac78ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>a5ba4271-d8fd-40c5-b5eb-e60fee733205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'jenis_pegawai' and (text() = '
+                            Semua
+                                                        Dosen
+                                                        Tenaga Kependidikan
+                                                        Mahasiswa
+                                                    ' or . = '
+                            Semua
+                                                        Dosen
+                                                        Tenaga Kependidikan
+                                                        Mahasiswa
+                                                    ')]</value>
+      <webElementGuid>8e180345-7a0d-4222-9f66-90da9e1b7f20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

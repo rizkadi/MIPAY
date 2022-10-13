@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>daftar_ajuan_rekening</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d913f0af-6f56-4d12-9928-fc8d1bfca67d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d01cb36c-484d-4f2b-8e11-411592c5aedd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\mrriz\\\\Downloads\\\\TEMPLATEAJUANREKENING (2).docx'</defaultValue>
+      <description></description>
+      <id>d01cb36c-484d-4f2b-8e11-411592c5aedd</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

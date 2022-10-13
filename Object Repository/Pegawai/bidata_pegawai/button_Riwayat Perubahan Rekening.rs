@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Riwayat Perubahan Rekening</name>
+   <tag></tag>
+   <elementGuidId>1de1da2b-f035-4900-9258-44c1ff15905b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-its.mb-4.btn-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5b08dc99-ed77-4b2a-a99d-b3fcb4426ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>756a4f65-b21b-46c6-9267-c3cf7ee4c78f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-its mb-4 btn-sm</value>
+      <webElementGuid>3c3b25d7-959b-4a84-8421-38f873b7a131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Riwayat Perubahan Rekening</value>
+      <webElementGuid>0cb273e1-d1c3-4d4e-8f3a-e320df16556d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;row row-xs&quot;]/div[@class=&quot;col-sm-12 col-lg-12&quot;]/div[@class=&quot;container border rounded-bottom bg-white&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/a[1]/button[@class=&quot;btn btn-primary btn-its mb-4 btn-sm&quot;]</value>
+      <webElementGuid>7f32c00f-9059-4186-853f-eb748acb2604</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>c5a56966-cfd1-4aa5-b1c8-f1493dafadb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div[2]/div/div[3]/div/div[2]/a/button</value>
+      <webElementGuid>286f306c-9c00-4bd8-86e5-5a5dbac81358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajukan Perubahan Rekening'])[1]/following::button[1]</value>
+      <webElementGuid>2bba8974-b3bd-4c9b-b85a-7acf89e3c8e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Diri'])[1]/following::button[2]</value>
+      <webElementGuid>3e0b6937-afe5-4588-b44e-0e89869c2f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perubahan Nomor Rekening'])[1]/preceding::button[1]</value>
+      <webElementGuid>da300bc8-9547-4a39-8f1b-11adc166ca33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[1]</value>
+      <webElementGuid>016f2077-a67e-4d59-b2c4-2f69e2eb717f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Riwayat Perubahan Rekening']/parent::*</value>
+      <webElementGuid>d7e33905-886f-49bb-81a0-2e76d8546386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>6e0aade3-f51c-4311-9ef3-354befd82e6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Riwayat Perubahan Rekening' or . = 'Riwayat Perubahan Rekening')]</value>
+      <webElementGuid>1b3a3029-d298-4180-941b-9c2129c43bf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
